@@ -1,2 +1,3 @@
 console.log("LMAO")
-console.log("git learn chai aur code")
+console.log("git learn chai aur")
+console.log("hello")
